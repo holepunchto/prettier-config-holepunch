@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-holepunch",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "The Prettier shared configuration used by Holepunch",
   "exports": {
     "./package": "./package.json",
